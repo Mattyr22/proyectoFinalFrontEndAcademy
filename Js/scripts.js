@@ -41,6 +41,7 @@ function darkMode() {
   root.style.setProperty('--color3', '#ddbdb9');
   root.style.setProperty('--color4', '#eed5d2');
   root.style.setProperty('--color5', '#ffeeea');
+  root.style.setProperty('--sombra', 'rgba(37,37,37,0.5)');
 }
 
 
